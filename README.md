@@ -1,4 +1,4 @@
-# HCI_report
+## Human Computer Interaction- Transforming Visual Experiences Using Emotion Recognition
 This report examines the factors that initiate emotions both positive and negative in users when
 interacting with any interface and explores the effects of these emotions on the cognitive
 learning of the users.This report further describes the development
